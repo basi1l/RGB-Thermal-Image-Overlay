@@ -1,4 +1,4 @@
-# 🧊 Task 1 – RGB-Thermal Image Overlay
+# 🧊 RGB-Thermal Image Overlay
 
 This project overlays visible RGB imagery with aligned thermal imagery to create fused visualizations for inspection and analysis. It automates the processing of multiple image pairs using OpenCV.
 
